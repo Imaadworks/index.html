@@ -297,5 +297,5 @@ I love exploring robotics and developing smart solutions for real-world problems
 <button>YouTube</button>
 
 <footer>
-<p>© 2026 Imaad Danish | NEXT LEVEL PORTFOLIO</p>
+<p>© 2026 Imaad Danish | Build for the future of robotics</p>
 </footer>
